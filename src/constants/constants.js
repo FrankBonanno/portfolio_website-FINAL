@@ -76,5 +76,4 @@ export const TimeLineData = [
 	{ year: 2021, text: 'Started teaching myself web development.' },
 	{ year: 2023, text: 'I became a father to my beautiful daughter who is my entire world.' },
 	{ year: 2024, text: 'I graduted with a degree in computer engineering and computer science.' },
-	{ year: 2025, text: 'I graduted with a degree in computer engineering and computer science.' },
 ];
