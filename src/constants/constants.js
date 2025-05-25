@@ -69,10 +69,12 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-	{ year: 2015, text: 'Started my journey with a simple 2D game.' },
+	{ year: 2015, text: 'Started my journey with a 2D platforming game.' },
 	{ year: 2016, text: 'Learned more about coding in highschool' },
 	{ year: 2019, text: 'Graduated with a few simple games under my belt.' },
 	{ year: 2020, text: 'Started my college computer science courses.' },
 	{ year: 2021, text: 'Started teaching myself web development.' },
-	// { year: 2023, text: 'My wonderful daughter Veda was born pushing my motivation!' },
+	{ year: 2023, text: 'I became a father to my beautiful daughter who is my entire world.' },
+	{ year: 2024, text: 'I graduted with a degree in computer engineering and computer science.' },
+	{ year: 2025, text: 'I graduted with a degree in computer engineering and computer science.' },
 ];
